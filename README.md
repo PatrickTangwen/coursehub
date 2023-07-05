@@ -1,0 +1,2 @@
+# coursehub
+frontend prototype
